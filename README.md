@@ -1,3 +1,4 @@
+![milkyway_image](https://user-images.githubusercontent.com/64918749/126925569-429a1290-306f-4437-b888-f84b5dd672ef.png)
 # MilkyWay
 
 Welcome @MilkyWay#5578 to your server! This is a bot that will allow you to quickly access info about space, astronauts, NASA archives and more! Version 1.0.1 was released 04/14/21 @ 1:00AM EST.
